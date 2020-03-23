@@ -1,5 +1,5 @@
-# Data Analysis
-### A Study of Metropolitans
+
+## CONTRASTING AND COMPARING THE METROPOLITANS OF INDIA
 
 ##### A Capstone Project completed as per the requirements of the [IBM Data Science Professional  Certificate](https://www.youracclaim.com/badges/7fa828dd-4931-4da3-ba74-e743f7a8c4c6/public_url "IBM Data Science Professional  Certificate")
 
