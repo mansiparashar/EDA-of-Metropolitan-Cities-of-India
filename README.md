@@ -21,7 +21,7 @@ at each city. Contrast and compare this data retrieved for the 4 cities on the b
 formed by the neighborhoods and the services/amenities these clusters have to offer, and how they line with the interest of the stakeholders. Also, compare the metropolitans on the basis of different unique amenities provided by
 them and the corresponding quantity. Finally, identify the different regions in each metropolitan based on shared common
 venues to locate possible choices for potential residents
-#### ### 2. DATA 
+### 2. DATA 
 We work on 3 sets of data :- <br><br>
 **2.1** Data containing the neighborhoods, pincodes,latitude, longitude and for cities in India.This data is accessed from the official government of India
 site,https://www.india.gov.in/ which serves as a national portal for accessing different
